@@ -28,7 +28,7 @@ It uses **Machine Learning / Deep Learning techniques** to assist in early diagn
 | --------------- | ----------------------------- |
 | 🧠 MRI Scan     | ✅ Tumor Detected / ❌ No Tumor |
 
-> (You can replace this with real screenshots later for even better impact)
+> (**Note:** The Result images are added in the result screenshots folder)
 
 ---
 
