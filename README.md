@@ -153,3 +153,18 @@ If you like this project:
 
 ---
 
+## 🚀 Future Work
+
+* 🧠 Upgrade to **CNN (Convolutional Neural Networks)** for improved accuracy
+* 📊 Train on a **larger and more diverse MRI dataset** for better generalization
+* 🎯 Apply **data augmentation techniques** to reduce overfitting
+* 🌐 Deploy as a **web application (Streamlit / Flask / Django)** for real-world use
+* ☁️ Host on **cloud platforms (AWS / GCP / Hugging Face Spaces)** for global access
+* 🔍 Integrate **Explainable AI (Grad-CAM)** to visualize prediction areas
+* 📱 Develop a **mobile-friendly interface or app version**
+* ⚡ Optimize model using **pruning & quantization** for faster inference
+* 📈 Add detailed evaluation metrics (**confusion matrix, precision, recall, F1-score, ROC-AUC**)
+* 🏥 Extend into a **clinical decision support system** for medical assistance
+
+---
+
