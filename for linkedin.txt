@@ -1,0 +1,18 @@
+🚀 Excited to share my Final Year Project!
+
+🧠 Brain Tumor Detection using Deep Learning (CNN) & Flask
+
+🔍 Built an AI-powered system that analyzes MRI scans and predicts whether a tumor is present or not, along with confidence scores.
+
+💡 Key Features:
+✔ Image Upload Interface
+✔ CNN-based Prediction Model
+✔ Real-time Results using Flask
+
+🛠 Technologies: Python, TensorFlow, OpenCV, Flask
+
+This project helped me strengthen my skills in Machine Learning and Full Stack Development.
+
+🔗 GitHub: https://github.com/IshaqRiaz/brain-tumor-detection-ml
+
+#MachineLearning #Python #AI #Flask #DeepLearning #FYP
