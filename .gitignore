@@ -1,0 +1,84 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env/
+
+# =========================
+# Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Machine Learning / Data
+# =========================
+data/
+dataset/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+
+# Large model files
+*.h5
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.sav
+
+# TensorFlow / Keras
+saved_model/
+model/
+models/
+*.keras
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Streamlit / Flask (if used)
+# =========================
+.streamlit/
+
+# =========================
+# PyCharm
+# =========================
+.idea/
+
+# =========================
+# Output files
+# =========================
+outputs/
+results/
+predictions/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.bak
